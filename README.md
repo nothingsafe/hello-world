@@ -1,2 +1,3 @@
 # hello-world
-Artificial intelligence is my favorite topic.
+I am a student,who is wildy intersted in coding and developing.
+And I know little java and C.
